@@ -1,2 +1,1 @@
-public class Program{
-}
+program class Program {
